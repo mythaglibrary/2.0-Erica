@@ -13,5 +13,7 @@ For the newbies out there, don't forget to redeem codes for freebies:
 - FHFW-WVQQ-SVSG <t:1781107140:R>
 - MSBL-TEWJ-PUBC <t:1781193540:R>
 - YZRC-WVVY-FKQZ <t:1781366340:R>
-- DPXW-TFCU-GTWF <t:1781539140:R>
-Please check in <#1355094251775459399> or <#1355085076500578363> for new codes!
+- DC50000 <t:1781798340:R>
+- VCHB-LEGT-KUUY <t:1782057540:R>
+
+Please check in <#1324476237560938607> for new codes!

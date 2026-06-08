@@ -1,3 +1,3 @@
 Below is a general anniversary banner info, as well as pack value. 
 
-https://discord.com/channels/1131791637933199470/1505839975030198324/1505840058295652543
+https://discord.com/channels/1320097371408830557/1324467809962557482/1505535771451457718
