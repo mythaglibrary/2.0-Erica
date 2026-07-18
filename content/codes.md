@@ -2,18 +2,14 @@ All codes listed below are currently active and confirmed to be working.
 
 For the newbies out there, don't forget to redeem codes for freebies:
 
-- HVGX-HLDX-QKKN **`never expire`**
-- QKBQ-SSDG-JZYU **`never expire`**
-- Catsgift  **`never expire`**
-- Dc5000  **`never expire`**
-- Silverkey  **`never expire`**
-- SayaNoUta <t:1786895940:R>
-- YouSavedMorimens <t:1787500740:R>
-- CCNP-AHXY-YMHF <t:1780934340:R>
-- FHFW-WVQQ-SVSG <t:1781107140:R>
-- MSBL-TEWJ-PUBC <t:1781193540:R>
-- YZRC-WVVY-FKQZ <t:1781366340:R>
-- DC50000 <t:1781798340:R>
-- VCHB-LEGT-KUUY <t:1782057540:R>
+- `HVGX-HLDX-QKKN` **never expire**
+- `QKBQ-SSDG-JZYU` **never expire**
+- `Catsgift`  **never expire**
+- `Dc5000`  **never expire**
+- `Silverkey`  **never expire**
+- `SayaNoUta` <t:1786895940:R>
+- `YouSavedMorimens` <t:1787500740:R>
+- `WNZC-ZCQA-QBKQ` <t:1784649540:R>
+- `HJVA-RLMF-RELF` <t:1785167940:R>
 
-Please check in <#1324476237560938607> for new codes!
+Please check in <https://discord.com/channels/1515454884378448002/1515471175483129916> for future codes!
