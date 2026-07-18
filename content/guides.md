@@ -5,7 +5,7 @@ Please be sure to check out our <#1304022827824844842>  section! Here are a few 
 - [Store Guide](<https://discord.com/channels/1515454884378448002/1523659274826285216>) by Mythag Library
 - [Morimens Database and Teambuiler](<https://skeydb.com/#/database>) by Fjant
 ## Mode Specific
-- [P-Dive Shortest Map Analysis](<https://docs.google.com/document/d/1qABYDgIEdwhXKu6PSi8nUK3-1hJ3fZFYxFkvjUmpk60/edit?usp=sharing>) by Aurora
+- [P-Dive Shortest Map Analysis](<https://docs.google.com/document/d/1qABYDgIEdwhXKu6PSi8nUK3-1hJ3fZFYxFkvjUmpk60/edit?tab=t.0>) by Aurora
 ## Compendium
 - [Morimens Compendium (unit builds and other info)](<https://docs.google.com/spreadsheets/d/1TCU7LJRzqKeuvLe97y_TfGZ-j6jq5bZX6hskAAJ2mFQ/edit?gid=167686509#gid=167686509>) by Mythag Library
 - [Boss Compendium (mechanics and intentions)](<https://discord.com/channels/1515454884378448002/1523656214729199636>) by Mythag Library
