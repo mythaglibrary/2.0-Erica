@@ -12,4 +12,4 @@ For the newbies out there, don't forget to redeem codes for freebies:
 - `WNZC-ZCQA-QBKQ` <t:1784649540:R>
 - `HJVA-RLMF-RELF` <t:1785167940:R>
 
-Please check in <https://discord.com/channels/1515454884378448002/1515471175483129916> for future codes!
+Please check in <#1515471175483129916> for future codes!
