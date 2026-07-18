@@ -1,1 +1,1 @@
-### [Full covenants guide](https://discord.com/channels/1320097371408830557/1473646008729735239)
+### [Full covenants guide](https://discord.com/channels/1515454884378448002/1523656565834649750)
