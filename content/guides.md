@@ -1,6 +1,6 @@
 Please be sure to check out our <#1304022827824844842>  section! Here are a few resources, tips, and walkthroughs to help you master the game:
 ## General Guide
-- [Morimens New Players Handbook site](<https://mythag.net/handbook/>) or [Google Doc](<https://docs.google.com/document/d/1THjxR9hHs4NWHqSWHHa2dHAGuE_cRGelfzXdBfCnIlM/edit?tab=t.0#heading=h.y9s1o0e0af9i>) by Cheri
+- [Morimens New Players Handbook site](<https://mythag.net/handbook/>) by Cheri
 - [Game/Realms/Stats Mechanics Guide](<https://discord.com/channels/1515454884378448002/1523653202225008731>) by Mythag Library
 - [Store Guide](<https://discord.com/channels/1515454884378448002/1523659274826285216>) by Mythag Library
 - [Morimens Database and Teambuiler](<https://skeydb.com/#/database>) by Fjant
